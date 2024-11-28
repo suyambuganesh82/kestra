@@ -995,6 +995,6 @@
     "flow not imported": "一部のflowをインポートできませんでした",
     "flows imported": "フローがインポートされました",
     "is required": "{field} は必須です",
-    "bookmark": "ブックマーク"
+    "bookmark": "Bookmark"
   }
 }
